@@ -46,3 +46,10 @@ nav ul {
   background: #bfdbf7;
   padding: 1px;
 }
+
+body {
+  max-width: 80rem;
+  padding: 0 1rem;
+  margin: 1rem auto;
+  background-color:#ffffff;
+}
