@@ -29,3 +29,15 @@ a {
   color:#000000;
   font: 1.05em/1.5 quattrocento, sans-serif;
 }
+
+nav ul {
+  list-style: none url(//:0); /* Remove bullets, without removing semantics */
+  padding-left: 0; /* Remove left padding for flush left appearance */
+}
+
+ nav ul {
+    display: grid;
+    grid-auto-flow: column;
+    justify-content: start;
+    gap: 1rem;
+  }
