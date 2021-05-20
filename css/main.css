@@ -1,11 +1,11 @@
 h1 {
-    font: 5em/1.5 el-messiri, monospace;
+    font: 5em/1.5 el-messiri;
     color: #000000;
     text-align: center;
     padding-bottom: 15px;
   }
 
 p {
-  font: 1.05em/1.5 Quattrocento, Lucida-Sans, sans-serif;
+  font: 1.05em/1.5 quattrocento, Lucida-Sans, sans-serif;
   color:#000000;
 }
