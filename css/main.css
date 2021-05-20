@@ -41,3 +41,8 @@ nav ul {
     justify-content: start;
     gap: 1rem;
   }
+
+.box {
+  background: #bfdbf7;
+  padding: 1px;
+}
