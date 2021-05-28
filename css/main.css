@@ -53,3 +53,19 @@ body {
   margin: 1rem auto;
   background-color:#ffffff;
 }
+
+img {
+  width: auto;
+  max-width: 50%;
+  height: auto;
+  text-align: center;
+}
+
+figure img {
+  border: 1px solid #ccc;
+    float: right;
+    width: 50%;
+    margin-top: 0;
+    margin-left: 1rem;
+    margin-bottom: 0;
+}
