@@ -62,8 +62,6 @@ img {
 }
 
 figure img {
-  border: 1px solid #ccc;
-    float: right;
     width: 50%;
     margin-top: 0;
     margin-left: 1rem;
