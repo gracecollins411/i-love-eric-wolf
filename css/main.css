@@ -61,7 +61,7 @@ img {
   text-align: center;
 }
 
-figure img .home {
+figure img #home {
   border: 1px solid #ccc;
     float: right;
     width: 50%;
