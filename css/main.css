@@ -61,6 +61,13 @@ img {
   text-align: center;
 }
 
+.months {
+  width: auto;
+  max-width: 33%;
+  height: auto;
+  vertical-align: middle;
+}
+
 .home {
     width: auto;
     max-width: 50%;
