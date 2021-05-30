@@ -66,6 +66,7 @@ img {
   max-width: 33%;
   height: auto;
   vertical-align: middle;
+  position: relative;
 }
 
 .home {
