@@ -62,7 +62,10 @@ img {
 }
 
 .home {
-  border: 1px solid #ccc;
+    width: auto;
+    max-width: 50%;
+    height: auto;
+    text-align: center;
     float: right;
     width: 50%;
     margin-top: 0;
